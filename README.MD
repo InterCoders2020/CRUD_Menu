@@ -1,1 +1,1 @@
-Proyecto diseñado por Jose Antonio Ortega Villen y Sofía Rocío Carballo Callegari
+Proyecto diseñado por Jose y Sofía
