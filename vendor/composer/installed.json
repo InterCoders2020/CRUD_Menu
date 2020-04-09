@@ -699,17 +699,17 @@
     },
     {
         "name": "phpunit/phpunit",
-        "version": "8.5.2",
-        "version_normalized": "8.5.2.0",
+        "version": "8.5.3",
+        "version_normalized": "8.5.3.0",
         "source": {
             "type": "git",
             "url": "https://github.com/sebastianbergmann/phpunit.git",
-            "reference": "018b6ac3c8ab20916db85fa91bf6465acb64d1e0"
+            "reference": "67750516bc02f300e2742fed2f50177f8f37bedf"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/018b6ac3c8ab20916db85fa91bf6465acb64d1e0",
-            "reference": "018b6ac3c8ab20916db85fa91bf6465acb64d1e0",
+            "url": "https://api.github.com/repos/sebastianbergmann/phpunit/zipball/67750516bc02f300e2742fed2f50177f8f37bedf",
+            "reference": "67750516bc02f300e2742fed2f50177f8f37bedf",
             "shasum": ""
         },
         "require": {
@@ -747,7 +747,7 @@
             "ext-xdebug": "*",
             "phpunit/php-invoker": "^2.0.0"
         },
-        "time": "2020-01-08T08:49:49+00:00",
+        "time": "2020-03-31T08:52:04+00:00",
         "bin": [
             "phpunit"
         ],
