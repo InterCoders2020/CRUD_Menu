@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://3.bp.blogspot.com/-Z1sVc2sa-lU/WSgfOLDo-pI/AAAAAAABBmo/csFIdyFdMWoSwYRYuZR4AZApcorH6c_wgCLcB/s1600/menu%252Cvintage%252Ccarta%252Crestaurant%252Cscrap%252Ctransfer%2B%25281%2529.jpg);
+   background-color: black;
+    background-repeat: no-repeat;  
+    background-position: center;
+    width: 300px;
+    margin: 0 auto;
+}
+.img{
+    background-image: url(https://lh3.googleusercontent.com/proxy/7J7XlQuNZX4OtlBLgqO869-naHt_8HmESvy0DWWABSN2oT_KJp0IrdDOkF4qh0WN1bi3NBy1RxFlCawnQoUSiYg);
+    background-repeat: no-repeat;
+    margin-left: -200px;
+    width: 400%;
+    height: 280px;
+    
+}
+.table{
+    padding: 2px;
+}
